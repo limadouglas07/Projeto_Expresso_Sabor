@@ -24,7 +24,7 @@ def exibir_opcoes():
     print('3. Alternar Status dos Restaurantes')
     print('4. Sair \n')
 
-# Função é um bloco de código que vai realizar uma determinada ação, nesse caso é finalizar o app.
+# Função é um bloco de código que vai realizar uma determinada ação, nesse caso é finalizar o app...
 
 
 def finalizar_app():  # Serve para limpar o terminal windows.
